@@ -1,6 +1,7 @@
 # Understanding the Folder Structure
 
 user@hostname:/ - in Docker
+
 ubuntu@hostname:~$ - in EC2 Here ~ is /home/ubuntu i.e /home/user
 
 ### Explanation of System Directories
